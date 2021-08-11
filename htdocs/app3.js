@@ -30,7 +30,7 @@ function inicio(){
 }
 
 function siii(){
-    alert("Sabia que inas a decir que si <3");
+    alert("Sabia que ibas a decir que si <3");
 }
 
 function paraAlante(i) {
