@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    position: absolute;
+    margin-top: 70%;
+    margin-left: 30%;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+h1{
+   position: absolute;
+   font-size:larger;
+   text-align:center;
+   padding: 2%;
+   margin-top: 20%;
+   margin-left: 15%;
+   margin-right: 15%;
+
+   color: honeydew;
+   background-color: rgba(144, 242, 255, 0.473);
+}
+
+html,body {overflow:hidden;}
+
+
+
+button {
+    border: solid 1px rgba(144, 242, 255, 0);
+    background-color: rgba(144, 242, 255, 0.473);
+    border-radius: 50px;
+    overflow: hidden;
+    font-size: 70%;
+    color: honeydew;
+}
+
+#si_1 {
+    position: relative;
+    top: 40%;
+    left: 56%;
+    padding: 2%;
+    width: 20%;
+    height: 5%;
+}
+
+#no_1 {
+    position: relative;
+    top: 40%;
+    padding: 2%;
+    width: 20%;
+    height: 5%;
+}
+
+.app_1 {
+    overflow: hidden;
+    background-size:cover;
+    background-image: url(/img/img7.jpg);
+}
+
+.screen_1 {
+    overflow: hidden;
+    background-size:cover;
+    background-image: url(/img/img5.jpg);
+}
+
+.screen_2 {
+    overflow: hidden;
+    background-size:cover;
+    background-image: url(/img/img2.jpg);
+}
+
+.screen_3 {
+    overflow: hidden;
+    background-size:cover;
+    background-image: url(/img/img12.jpg);
+}
+
+.screen_4 {
+    overflow: hidden;
+    background-size:cover;
+    background-image: url(/img/img4.jpg);
+}
+
